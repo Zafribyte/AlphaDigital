@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Profile.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -142,7 +142,7 @@
           },
           "title": "",
           "text": "<b><i>“Our Social Media Marketing Agency accumulates you more leads while establishing a solid &amp; visible online presence.”</i></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">About Us</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#testimonials2-10\" data-toolbar=\"-mbrBtnMove\">About Us</a>"
         },
         {
           "_tags": [
